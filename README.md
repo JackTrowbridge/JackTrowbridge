@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JackTrowbridge
+- 👀 I’m interested in Game/Software Development
+- 🌱 I’m currently learning Java & Scala
+- 💞️ I’m looking to collaborate on Minecraft Servers
+- 📫 How to reach me jack@reego.org
