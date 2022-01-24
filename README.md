@@ -1,7 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Jack Trowbridge </h1>
+<h1 align="center">Hi, I am Jack Trowbridge </h1>
 
 <p align="center" width="150px"> I'm a full-time software engineer that works with Ruby on Rails and OpenCV. I also work on some Java projects, which include stuff like Minecraft servers.</p>
 
