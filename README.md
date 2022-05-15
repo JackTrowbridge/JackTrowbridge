@@ -32,6 +32,6 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://reego.org"><img src="https://img.shields.io/badge/-reego.org-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:jack@reego.org"><img src="https://img.shields.io/badge/-awesomeque12@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://jayjaytee.video"><img src="https://img.shields.io/badge/-jayjaytee.video-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:awesomeque12@gmail.com"><img src="https://img.shields.io/badge/-awesomeque12@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
