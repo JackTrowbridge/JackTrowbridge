@@ -33,5 +33,5 @@
 
 <p align="center">
 <a href="https://reego.org"><img src="https://img.shields.io/badge/-reego.org-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:jack@reego.org"><img src="https://img.shields.io/badge/-jack@reego.org-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jack@reego.org"><img src="https://img.shields.io/badge/-awesomeque12@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
