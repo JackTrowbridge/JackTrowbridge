@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I am Jack Trowbridge </h1>
 
-<p align="center" width="150px"> I'm a full-time software engineer that works with Ruby on Rails and OpenCV. I also work on some Java projects, which include stuff like Minecraft servers.</p>
-
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BJackTrowbridge%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTrowbridge&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=JackTrowbridge&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=JackTrowbridge&theme=chartreuse-dark"></p>
+<p align="center" width="150px"> I'm a full-time software engineer that works with Laravel, Flutter, and OpenCV. I also work on some Java projects, which include stuff like Minecraft servers.</p>
 
 ### 🛠 &nbsp;Tech Stack
 
